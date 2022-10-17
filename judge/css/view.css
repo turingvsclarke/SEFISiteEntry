@@ -1,0 +1,7 @@
+th,td {
+    border: 2px solid grey;
+}
+
+tr:hover {
+    background-color: rgba(128, 128, 128, 0.171);
+}

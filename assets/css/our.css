@@ -1,0 +1,24 @@
+.our-main {
+    position: relative;
+}
+
+#our-sidebar {
+    background-color: #1a631a !important;
+}
+
+#myFooter {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+
+html {
+    height: 100vh;
+}
+
+body {
+    position: relative;
+    height: 100vh !important;
+    background-color: #368f3669;
+}
